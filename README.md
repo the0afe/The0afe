@@ -4,7 +4,7 @@
  - ✏ UMESP - Universidade Metodista de São Paulo / system analiysis and developer
  - ✉ How to find me: theoforlin@gmail.com
  - 😃Pronouns: he/him
- - 💻Studying python 
+ - 💻Studying javascript, angular 
 
 
 
