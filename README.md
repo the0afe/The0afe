@@ -1,7 +1,7 @@
 ### Welcome I'm Theo
 
 
- - ✏ UMESP - Universidade Metodista de São Paulo / system analiysis and developer
+ - ✏ UMESP - Universidade Metodista de São Paulo / system analysis and developer
  - ✉ How to find me: theoforlin@gmail.com
  - 😃Pronouns: he/him
  - 💻Studying javascript, angular 
